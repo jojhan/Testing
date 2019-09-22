@@ -19,3 +19,6 @@ http://www.djing.com/tv/live.m3u8
 http://www.djing.com/tv/underground.m3u8
 #EXTINF:-1,DJING IBIZA
 http://www.djing.com/tv/ibiza.m3u8
+
+
+hls://http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
