@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1,Djing Animation
+http://www.djing.com/tv/animation.m3u8
+#EXTINF:-1,Djing Classic
+http://www.djing.com/tv/hits.m3u8
+#EXTINF:-1,Djing Electro Rock
+http://www.djing.com/tv/session_electro-rock.m3u8
+#EXTINF:-1,Djing French touch
+http://www.djing.com/tv/session_french-touch.m3u8
+#EXTINF:-1,Djing Ibiza
+http://www.djing.com/tv/dancefloor.m3u8
+#EXTINF:-1,Djing Karaoke
+http://www.djing.com/tv/karaoke.m3u8
+#EXTINF:-1,Djing Summer Vibes
+http://www.djing.com/tv/session_summer-vibes.m3u8
+#EXTINF:-1,Djing TV
+http://www.djing.com/tv/live.m3u8
+#EXTINF:-1,Djing Underground
+http://www.djing.com/tv/underground.m3u8
+#EXTINF:-1,DJING IBIZA
+http://www.djing.com/tv/ibiza.m3u8
