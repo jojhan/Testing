@@ -19,5 +19,37 @@ http://www.djing.com/tv/live.m3u8
 http://www.djing.com/tv/underground.m3u8
 #EXTINF:-1,DJING IBIZA
 http://www.djing.com/tv/ibiza.m3u8
+#EXTINF:-1,M20
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,RetroTV HD
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1,Telecentro Musica
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1,Telemusica
+http://186.155.200.118:1935/live/telemusica_web/chunklist_w1469736820.m3u8
+#EXTINF:-1,Meloday Channel
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:-1,M20 TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&amp;rebase=on
+#EXTINF:-1,PortalFox Mix
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+#EXTINF:-1,Live Power
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+#EXTINF:-1,TMTV
+http://streamingcws20.com:1935/tmtv/videotmtv/.m3u8
+#EXTINF:-1,California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
+#EXTINF:-1,MTV Norway
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1,RMC
+http://wow01.105.net/live/rmc1/playlist.m3u8
+#EXTINF:-1,CDN
+http://ott-cdn.ucom.am/s35/index.m3u8
+#EXTINF:-1,DC Live
+https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+#EXTINF:-1,Music HU
+http://stream.1music.hu/stream/1music.m3u8
+#EXTINF:-1,Deejay TV
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
 #EXTINF:-1,Locomotion
 http://locomotiontv.com/envivo/loco_channel/stream.m3u8
