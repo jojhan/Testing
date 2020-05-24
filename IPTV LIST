@@ -1,55 +1,67 @@
 #EXTM3U
-#EXTINF:-1,Djing Animation
-http://www.djing.com/tv/animation.m3u8
-#EXTINF:-1,Djing Classic
-http://www.djing.com/tv/hits.m3u8
-#EXTINF:-1,Djing Electro Rock
-http://www.djing.com/tv/session_electro-rock.m3u8
-#EXTINF:-1,Djing French touch
-http://www.djing.com/tv/session_french-touch.m3u8
-#EXTINF:-1,Djing Ibiza
-http://www.djing.com/tv/dancefloor.m3u8
-#EXTINF:-1,Djing Karaoke
-http://www.djing.com/tv/karaoke.m3u8
+#EXTINF:-1,Djing | Live
+https://djing.com/tv/live.m3u8
+#EXTINF:-1,Djing | Ibiza
+https://djing.com/tv/dancefloor.m3u8
+#EXTINF:-1,Djing | Hot Hot Hot
+https://djing.com/tv/h-01-fta.m3u8
+#EXTINF:-1,Djing | Classics
+https://djing.com/tv/hits.m3u8
+#EXTINF:-1,Djing | Animation
+https://djing.com/tv/animation.m3u8
+#EXTINF:-1,Djing | Underground
+https://djing.com/tv/underground.m3u8
 #EXTINF:-1,Djing Summer Vibes
 http://www.djing.com/tv/session_summer-vibes.m3u8
-#EXTINF:-1,Djing TV
-http://www.djing.com/tv/live.m3u8
-#EXTINF:-1,Djing Underground
-http://www.djing.com/tv/underground.m3u8
-#EXTINF:-1,DJING IBIZA
-http://www.djing.com/tv/ibiza.m3u8
-#EXTINF:-1,M20
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,RetroTV HD
-http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
-#EXTINF:-1,Telecentro Musica
-http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
-#EXTINF:-1,Telemusica
-http://186.155.200.118:1935/live/telemusica_web/chunklist_w1469736820.m3u8
-#EXTINF:-1,Meloday Channel
-http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
-#EXTINF:-1,M20 TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&amp;rebase=on
-#EXTINF:-1,PortalFox Mix
-http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
-#EXTINF:-1,Live Power
-http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
-#EXTINF:-1,TMTV
-http://streamingcws20.com:1935/tmtv/videotmtv/.m3u8
-#EXTINF:-1,California Music Channel
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
-#EXTINF:-1,MTV Norway
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1,RMC
-http://wow01.105.net/live/rmc1/playlist.m3u8
-#EXTINF:-1,CDN
-http://ott-cdn.ucom.am/s35/index.m3u8
-#EXTINF:-1,DC Live
-https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
-#EXTINF:-1,Music HU
-http://stream.1music.hu/stream/1music.m3u8
-#EXTINF:-1,Deejay TV
-http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
-#EXTINF:-1,Locomotion
-http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+#EXTINF:-1,Djing | Electro Rock
+https://djing.com/tv/session_electro-rock.m3u8
+#EXTINF:-1,Djing | French Touch
+https://djing.com/tv/session_french-touch.m3u8
+#EXTINF:-1,Djing | Karaoke
+https://djing.com/tv/karaoke.m3u8
+#EXTINF:-1,Djing | Hedonist
+https://djing.com/tv/session_hedonist.m3u8
+#EXTINF:-1,Djing | Wild EDM
+https://djing.com/tv/session_wild-edm.m3u8
+#EXTINF:-1,Djint | Avicii
+https://djing.com/tv/session_avicii.m3u8
+#EXTINF:-1,Music Choice | Todays Country
+https://chaina-fastly.musicchoice.com/streamwebvca1/O0U9MTU5MDM2Mjc0MTtBPTE7Sz0wO1A9MDEwMTE7Uz01MWY4MDY1YWUyNzJmYmRkOWI3OGUyZTRkNTEwZTY5YWNhODNhZWY1/VideoChannels/ROTFL121/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_121&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False
+#EXTINF:-1,Music Choice |Country
+https://chaina-fastly.musicchoice.com/streamwebvca3/O0U9MTU5MDM1NjU4ODtBPTE7Sz0wO1A9MDEwMTE7Uz0xMDRkNDA4MWY3YWY4YzI2YWJhM2FiMDcwN2UwZjM5YTc4ZTNiNzI2/VideoChannels/VC-MC1115/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_1115&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False
+#EXTINF:-1,Music Choice | Pop Latino
+https://chaina-fastly.musicchoice.com/streamwebvca1/O0U9MTU5MDM1Njc0MjtBPTE7Sz0wO1A9MDEwMTE7Uz04M2VhYWIzNThmYTMxZTAzMWEwMTczNzhiZWQ5YjFkZjU2YmI1MzI2/VideoChannels/ROTFL123/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_123&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False
+#EXTINF:-1,Music Choice | Musica Urbana
+https://chaina-fastly.musicchoice.com/streamwebvca1/O0U9MTU5MDM1NzI3MztBPTE7Sz0wO1A9MDEwMTE7Uz1iMWM4N2I5NjRhNTMyYzZmOWNhOThmMGFhOTY5NjkxODMxMjFlODBl/VideoChannels/ROTFL128/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_128&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False
+#EXTINF:-1,Music Choice | Tropicales
+https://chaina-fastly.musicchoice.com/streamwebvca2/O0U9MTU5MDM1NzYyOTtBPTE7Sz0wO1A9MDEwMTE7Uz1jYzRjODg1ODIxNmQyYWQyYmQzNzg5NzU4MmVhZDVjOGQyNjJjMzhm/VideoChannels/ROTFL137/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_137&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False
+#EXTINF:-1,Music Choice | Mexicana
+https://chaina-fastly.musicchoice.com/streamwebvca2/O0U9MTU5MDM1NzkwOTtBPTE7Sz0wO1A9MDEwMTE7Uz1kOGY5MWZhOTkyNzRlYjgxYzgwYjkxOWFjYmFlZjBmMGFmYmM5MTI2/VideoChannels/ROTFL131/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_131&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False
+#EXTINF:-1,Music Choice | Alternative
+https://chaina-fastly.musicchoice.com/streamwebvca1/O0U9MTU5MDM1ODEzNztBPTE7Sz0wO1A9MDEwMTE7Uz0wMzZiY2Q2MmIxZDJhMWIyYWM1M2QzMzYwYmQ5YmQ1MzY0YmM1YzU4/VideoChannels/ROTFL122/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_122&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False
+#EXTINF:-1,Music Choice |Adult Alternative
+https://chaina-fastly.musicchoice.com/streamwebvca3/O0U9MTU5MDM1OTAxOTtBPTE7Sz0wO1A9MDEwMTE7Uz0xYjczODE2YmI4NGQ2MDZhZGYzNzE3ZWY3NjQxMmQyOGViNTBlODZl/VideoChannels/VC-MC1114/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_1114&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False
+#EXTINF:-1,Music Choice | Indie
+https://chaina-fastly.musicchoice.com/streamwebvca1/O0U9MTU5MDM1OTMyMDtBPTE7Sz0wO1A9MDEwMTE7Uz04OTQzYTNlODk4N2U4YzBiYzRiZWVkZjRjZGU5YzM3NTQxYTNiY2Fh/VideoChannels/ROTFL129/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_129&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False
+#EXTINF:-1,Music Choice | Hitlist
+https://chaina-fastly.musicchoice.com/streamwebvca1/O0U9MTU5MDM1OTUwMjtBPTE7Sz0wO1A9MDEwMTE7Uz05MWViMmY1Mjc4YzZlZDcxYWZhMjFlMmZhMjI2YjI3MWE2NDc1OTUx/VideoChannels/ROTFL100/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_100&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False
+#EXTINF:-1,Music Choice | Pop Hits
+https://chaina-fastly.musicchoice.com/streamwebvca2/O0U9MTU5MDM1OTY5OTtBPTE7Sz0wO1A9MDEwMTE7Uz02ZjIxZGQ3MDFiZmYyNTZhMTM5NjI5Y2IyYTY4NzliNTI4NmFiNTAw/VideoChannels/ROTFL133/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_133&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False
+#EXTINF:-1,Music Choice | Pop&Country
+https://chaina-fastly.musicchoice.com/streamwebvca2/O0U9MTU5MDM1OTgxOTtBPTE7Sz0wO1A9MDEwMTE7Uz03Yzg1OWZlNGVhOWNjMGE1ZWEyMzhjZGM0MWRhYTA5NDM2ZDIxOGY0/VideoChannels/ROTFL132/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_132&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False
+#EXTINF:-1,Music Choice | Teen Beats
+https://chaina-fastly.musicchoice.com/streamwebvca1/O0U9MTU5MDM1OTg5NjtBPTE7Sz0wO1A9MDEwMTE7Uz1kMTAxZTA3NDkzYzZlZmQ2OGMzYTYzMWU1NjBhMzJmZjdlZGM2MTRk/VideoChannels/ROTFL118/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_118&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False
+#EXTINF:-1,Music Choice | Play
+https://chaina-fastly.musicchoice.com/streamwebvca1/O0U9MTU5MDM2MDA0MztBPTE7Sz0wO1A9MDEwMTE7Uz1kMmM0Zjg4Yzc1ZDhkZmY4MzRhODkyZWRmNjA4MWQ1YTRiZGQ3OTg2/VideoChannels/ROTFL1104/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_1104&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False
+#EXTINF:-1,Music Choice | Dance & EDM
+https://chaina-fastly.musicchoice.com/streamwebvca1/O0U9MTU5MDM2MDExNDtBPTE7Sz0wO1A9MDEwMTE7Uz0wOTBiNjliNjgyZjhmMTk4OGJlNmQ2MDhjYTAwNDlmOWNiYjgxNThk/VideoChannels/ROTFL127/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_127&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False
+#EXTINF:-1,Music Choice | Y2K
+https://chaina-fastly.musicchoice.com/streamwebvca2/O0U9MTU5MDM2MDkxMztBPTE7Sz0wO1A9MDEwMTE7Uz0xM2Q2MjkwOWE3ZDliMDVhYjllMTAxZjU4NjY3NDYwZjA3OTQ1OTk2/VideoChannels/ROTFL145/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_145&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False
+#EXTINF:-1,Music Choice | 90s
+https://chaina-fastly.musicchoice.com/streamwebvca2/O0U9MTU5MDM2MDkxMztBPTE7Sz0wO1A9MDEwMTE7Uz0xM2Q2MjkwOWE3ZDliMDVhYjllMTAxZjU4NjY3NDYwZjA3OTQ1OTk2/VideoChannels/ROTFL145/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_145&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False
+#EXTINF:-1,Music Choice | 80s
+https://chaina-fastly.musicchoice.com/streamwebvca3/O0U9MTU5MDM2MTE0ODtBPTE7Sz0wO1A9MDEwMTE7Uz0wMzAxMDZlZDQwNmZlNzMwZmYwMTk2MzkxOWMwMGE0M2ZiZmNhMGFl/VideoChannels/VC-MC1113/playlist.m3u8?Platform=Web&AppName=MCMediaApp&AppVersion=1.8&Source=VCChainA&AssetID=VC_1113&AssetType=VideoChannel&RegionID=1&IsPrimary=True&IsDR=False
+
+
+
+
